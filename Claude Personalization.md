@@ -1,4 +1,4 @@
-#Claude Personalization
+# Claude Personalization
 
 ```
 I prefer casual, precise, concise, efficient, and candid conversation
